@@ -1,0 +1,1 @@
+# A strapi app made with template
