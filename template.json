@@ -1,6 +1,8 @@
 {
-  "description": "A strapi app made with dummy-404 template",
-  "dependencies": {
-    "strapi-plugin-graphql": "latest"
+  "package": {
+    "description": "A strapi app made with dummy-404 template",
+    "dependencies": {
+      "strapi-plugin-graphql": "latest"
+    }
   }
 }
